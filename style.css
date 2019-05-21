@@ -1,0 +1,152 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.9;
+    color: #434A54;
+    background: #F5F7FA;
+}
+p{
+    margin-bottom: 0px;
+}
+h1,h2,h3,h4,h5,h6{
+    margin-bottom: 0px;
+}
+figure{
+    margin: 0;
+}
+i.material-icons{
+    position: relative;
+    top: 7px;
+}
+.border-top, .border-bottom, .border-left, .border-right{
+    border-color: #656D78 !important;
+    border-width: 2px !important;
+}
+.figure-img{
+    margin-bottom: 0;
+}
+
+
+.title{
+    margin-bottom: 24px;
+}
+.title h1 {
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: 1.2px;
+}
+.title h4{
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: .6px;
+}
+.profile-pic figure img{
+    margin-top: 34px;
+}
+.social-profile{
+    margin-top: 10px;
+}
+.social-profile a{
+    font-size: 13px;
+    font-weight: 400;
+    color: #000;
+    opacity: .63;
+}
+
+
+.school .figure img{
+    width: 48px;
+}
+.college .figure img{
+    width: 60px;
+}
+.university .figure img{
+    width:54px;
+}
+.education h2, .experience h2, .skills h2, .certification h2, .interest h2{
+    font-size: 20px;
+    font-weight: 500;
+}
+.school h4, .college h4, .university h4{
+    font-size: 16px; 
+    font-weight: 400;
+    opacity: .73;
+    color: #000;
+}
+.school h6, .college h6, .university h6{
+    font-size: 12px;
+    font-weight: 500;
+    color: #000;
+}
+.school p, .college p, .university p{
+    font-size: 14px;
+    font-weight: 400;
+    opacity: .63;
+    color: #000;
+}
+
+.exp-details{
+    margin-bottom: 15px;
+}
+.exp-details h4{
+    font-size: 12px;
+    font-weight: 500;
+    color: #000;
+}
+.exp-details p{
+    font-size: 12px;
+    font-weight: 400;
+    color: #000;
+    opacity: .54;
+}
+.company-name{
+    font-weight: 400;
+}
+.present{
+    color: #1CD122
+}
+
+
+.skill-text{
+    font-size: 12px;
+    font-weight: 500;
+    color: #000;
+}
+.progress{
+    height: 5px;
+    border-radius: 0px;
+    position: relative;
+    top: 7px;
+}
+.progress-bar{
+    background: #070707; 
+}
+
+.certification h2::before{
+    content: ''
+}
+.certificate h4{
+    font-size: 14px;
+    font-weight: 400;
+    color: #000;
+}
+.certificate p{
+    font-size: 12px;
+    font-weight: 400;
+    color: #000;
+    opacity: .73;
+}
+.certified{
+    font-weight: 500;
+}
+
+
+.interest-item img{
+    width: 48px;
+}
+.interest-item img.movie{
+    width: 54px;
+    position: relative;
+    top: 5px;
+}
